@@ -1,0 +1,2 @@
+# CMSlim
+simple online shop
